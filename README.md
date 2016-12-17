@@ -1,8 +1,7 @@
 # shell
 Shell IndoXploit V.2
 penambahan fitur dan perubahan tampilan #moreresposive
-Silahkan Dipakai :D. Semua tools telanjang ( no decrypt" lucknut ),
-maaf kalau jelek dan sebagainya :)
+Silahkan Dipakai :D. Semua tools telanjang ( no decrypt"),
 buat login : tekan tab > pass : cokkie
 
 image: screenshot
