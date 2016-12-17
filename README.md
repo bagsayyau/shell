@@ -6,6 +6,8 @@ buat login : tekan tab > pass : cokkie
 
 image: screenshot
 
+https://github.com/zone-h/shell/blob/master/15625901_1195959787163614_4449045063072279166_o.jpg
+
 https://scontent-sin6-1.xx.fbcdn.net/v/l/t1.0-9/15622641_1195959787163614_4449045063072279166_n.jpg?oh=b5c8a8487b82a14cb4d386c74060ef3e&oe=58FAE75A
 
 
